@@ -2,8 +2,9 @@
 - 👀 Life long Learner
 - 🌱 I’m currently learning Python, Jupyter Notebook
 - 💞️ I’m looking to collaborate on Beginner projects
+- 👷🏻 Building A.I tools
 - 📫 How to reach me simon.koch.ch@gmail.com
-- ⚡ Fun fact: ...
+  
 
 <!---
 Hackbart7/Hackbart7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
